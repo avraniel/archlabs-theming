@@ -1,3 +1,3 @@
-# ARCHLabs Theming project Hibiscus
+# ArcoLinux Theming project Hibiscus
 
-Article on http://erikdubois.be
+Article on http://arcolinux.info
